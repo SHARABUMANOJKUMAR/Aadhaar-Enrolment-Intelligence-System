@@ -275,7 +275,7 @@ You are free to:
 
 provided that the original copyright and license notice are included.
 
-For more details, see the https://github.com/SHARABUMANOJKUMAR/Aadhaar-Enrolment-Intelligence-System/edit/main/README.md file.
+For more details, see the [LICENSE](LICENSE) file.
 
 
 <p align="center">
