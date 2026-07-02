@@ -273,6 +273,3 @@ Achievement : 🏆 UIDAI Data Hackathon 2026 Finalist
 ⭐ <b>If you found this project useful, consider giving it a Star!</b>
 
 </p>
----
-
-⭐ If you found this project useful, consider giving it a star!
