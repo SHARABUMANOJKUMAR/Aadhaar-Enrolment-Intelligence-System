@@ -261,22 +261,6 @@ Achievement : 🏆 UIDAI Data Hackathon 2026 Finalist
 </p>
 
 ---
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
-You are free to:
-
-- ✅ Use
-- ✅ Modify
-- ✅ Distribute
-- ✅ Fork
-- ✅ Use commercially
-
-provided that the original copyright and license notice are included.
-
-For more details, see the [LICENSE](LICENSE) file.
-
 
 <p align="center">
 
